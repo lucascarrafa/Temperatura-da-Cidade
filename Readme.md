@@ -3,9 +3,9 @@
 ## A biblioteca python-twitter
 A primeira coisa a se fazer é instalar a biblioteca do Twitter para fazer a comunicação com a plataforma
 
-'''
+```
 $ pip install python-twitter
-'''
+```
 ## Registrar um App Twitter 
 O proximo passo é criar um App no site do Twitter
 https://apps.twitter.com/
