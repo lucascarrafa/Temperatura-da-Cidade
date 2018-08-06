@@ -1,3 +1,3 @@
 # Sensor
 
-![Sensor](/images/sensor.png)
+![Sensor](/imagens/sensor.png)
